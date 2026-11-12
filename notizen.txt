@@ -1,1 +1,3 @@
 Übung zur Arbeit mit Git und GitHub.
+Ich habe das Repository erfolgreich geklont.
+
