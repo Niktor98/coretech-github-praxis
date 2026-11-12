@@ -6,5 +6,5 @@ In diesem Projekt übe ich die Arbeit mit Git und GitHub.
 - .gitignore
 - notizen.txt
 ## Erste Nutzung
-Das Repository dient zum Üben von Commits, Push, Pull und Branches.# GitHub Remote Praxis
+Das Repository dient zum Üben der Zusammenarbeit im main-Branch.
 Ich teste die Synchronisation mit GitHub.
